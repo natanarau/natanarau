@@ -1,4 +1,4 @@
-## Olá meu nome é Natã Araújo desenvolvedor Web e mobile full stack 👋
+## Olá meu nome é Natã Araújo desenvolvedor Web 👋
 
 <div align="center">
   <a href="https://github.com/natanarau">
